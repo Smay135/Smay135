@@ -17,10 +17,10 @@
 - International Baccalaureate (IB)
   - English International School of Padova
 
-- Bachelor in Psychology
+- BSc in Psychology
   - University of Amsterdam (UvA)
 
-- Master in Artificial Intelligence
+- MS in Artificial Intelligence
   - Vrije Universiteit Amsterdam (VU) _(Currently pursuing)_
 
 
