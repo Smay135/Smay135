@@ -1,4 +1,4 @@
-<h1>Hi, I'm Esmee Kool! 
+<h1>Hi, I'm Esmee Kool! <br/><a href="https://github.com/Smay135">Master AI Student</a>
 
 <h2>👨‍💻 Artificial Intelligence Projects:</h2>
 
@@ -11,6 +11,9 @@
 - <b>Model Evaluation</b>
 
 <h3>Inferential Statistics</h3>
+
+<h2>Papers</h2>
+
 
 <h2> 👩‍🎓 Education</h2>
 
